@@ -1,0 +1,14 @@
+{
+    "account_name": "your_account_name",
+    "private_key": "your_private_key",
+    "api_base_url": "https://api.dungeon.wombat.app",
+    "wax_rpc_url": "https://wax-rpc.wombat.app/v1/chain",
+    "cookie_file": "cookie.json",
+    "logging": {
+        "level": "INFO",
+        "format": "%(asctime)s - %(levelname)s - %(message)s"
+    },
+    "trip_duration_minutes": 5,
+    "sleep_duration_min": 310,
+    "sleep_duration_max": 380
+}
